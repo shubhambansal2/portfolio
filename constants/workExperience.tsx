@@ -13,7 +13,7 @@ export const workExperience = [
     logo: "/images/logos/flipkart2.png",
   },
   {
-    company: "Blinkit (Formerly Grofers)",
+    company: "Blinkit",
     role: "Senior Data Analyst",
     startDate: "2020-01-01",
     endDate: "2021-06-01",
